@@ -46,7 +46,7 @@
 [android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
+
 [xd]: https://www.adobe.com/products/xd.html
 
 <br />
