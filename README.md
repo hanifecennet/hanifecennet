@@ -22,8 +22,9 @@
 
 [<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  height="38" width="38"/>][vsCode]
 [<img align="left" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg"  height="38" width="38"/>][unity]
-[<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  height="38" width="38"/>][vsCode]
-[<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" height="38" width="38"  />][flutter]
+[<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="38" width="38"/>][vsCode]
+[<img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" height="38" width="38"/>][js]
+[<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" height="38" width="38" />][flutter]
 [<img align="left" alt="PHP" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/php/php.png" height="38" width="38"/>][php]
 [<img align="left" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="38" width="38"/>][android]
 [<img align="left" alt="HTML" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" height="38" width="38"/>][html]
@@ -36,6 +37,7 @@
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [unity]: https://unity.com/
+[js]: https://www.javascript.com/
 [android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
 [php]: https://www.php.net/
