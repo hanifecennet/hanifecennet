@@ -52,7 +52,6 @@
 
 <br />
 <br />
-<br />
 
 ### 📥 Connect with me:
 
@@ -60,7 +59,6 @@
 [<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <!--[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][discord]-->
-
 
 <br/>
 
