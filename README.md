@@ -24,12 +24,12 @@
 [<img align="left" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg"  height="38" width="38"/>][unity]
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
-[<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
+[<img align="left" alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="38" width="38"/>][mysql]
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="38" width="38"/>][dotnet]
 
 [<img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" height="38" width="38"/>][js]
 [<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" height="38" width="38" />][flutter]
-[<img align="left" alt="PHP" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/php/php.png" height="38" width="38"/>][php]
+[<img align="left" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="38" width="38"/>][php]
 [<img align="left" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="38" width="38"/>][android]
 [<img align="left" alt="HTML" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" height="38" width="38"/>][html]
 [<img align="left" alt="CSS" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" height="38" width="38"/>][css]
@@ -51,6 +51,7 @@
 [linux]: https://www.linux.org/
 [cs]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [dotnet]: https://learn.microsoft.com/tr-tr/dotnet/welcome
+[mysql]: https://www.mysql.com/
 
 <br />
 <br />
