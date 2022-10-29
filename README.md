@@ -26,7 +26,7 @@
 [<img align="left" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="38" width="38"/>][oracle]
 [<img align="left" alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="38" width="38"/>][mysql]
 [<img align="left" alt=".Net" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="38" width="38"/>][dotnet]
-
+[<img align="left" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38" width="38"/>][java]
 [<img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" height="38" width="38"/>][js]
 [<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" height="38" width="38" />][flutter]
 [<img align="left" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="38" width="38"/>][php]
@@ -53,7 +53,7 @@
 [dotnet]: https://learn.microsoft.com/tr-tr/dotnet/welcome
 [mysql]: https://www.mysql.com/
 [oracle]: https://www.oracle.com/
-
+[java]: https://www.java.com/tr/
 <br />
 <br />
 <!---
