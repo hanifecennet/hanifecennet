@@ -50,8 +50,9 @@
 [java]: https://www.java.com/tr/
 [linux]: https://www.linux.org/
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 ### 📥 Connect with me:
 
