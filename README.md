@@ -35,7 +35,7 @@
 [<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="60" height="60" />][flutter]
 [<img align="left" alt="PHP" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/php/php.png" width="60" height="60"/>][php]
 [<img align="left" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="60" height="60"/>][android]
-[<img align="left" alt="Ios" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" width="60" height="60"/>][ios]
+[<img align="left" alt="HTML" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" width="60" height="60"/>][html]
 [<img align="left" alt="Adobe XD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" width="60" height="60"/>][xd]
 
 <br />
@@ -46,7 +46,7 @@
 [android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
 [php]: https://www.php.net/
-
+[html]: 
 [xd]: https://www.adobe.com/products/xd.html
 
 <br />
