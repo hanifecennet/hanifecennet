@@ -1,9 +1,7 @@
 <h2>Hi there, I'm Hanife Cennet 🙋🏻‍♀️</h2>
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b761105f4fa26133e0ed25bba0ffb69ee30f779382220&amp" width="250" height="240" />
-
 
 ✽ 📱 I’m developing mobile application with Flutter.
-
+✽ 🏃🏻‍♀️ I'm chasing new education ve bootcamp for improve myself.
 ### 📥 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
