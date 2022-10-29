@@ -25,7 +25,7 @@
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
 [<img align="left" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="38" width="38"/>][oracle]
 [<img align="left" alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="38" width="38"/>][mysql]
-[<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="38" width="38"/>][dotnet]
+[<img align="left" alt=".Net" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="38" width="38"/>][dotnet]
 
 [<img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" height="38" width="38"/>][js]
 [<img align="left" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" height="38" width="38" />][flutter]
