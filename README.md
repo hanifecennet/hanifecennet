@@ -46,7 +46,7 @@
 [android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
 [php]: https://www.php.net/
-[html]: 
+[html]: https://www.w3schools.com/html/
 [xd]: https://www.adobe.com/products/xd.html
 
 <br />
