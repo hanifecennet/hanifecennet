@@ -23,7 +23,7 @@
 [<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  height="38" width="38"/>][vsCode]
 [<img align="left" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg"  height="38" width="38"/>][unity]
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
-[<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
+[<img align="left" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="38" width="38"/>][oracle]
 [<img align="left" alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="38" width="38"/>][mysql]
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="38" width="38"/>][dotnet]
 
@@ -52,6 +52,7 @@
 [cs]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [dotnet]: https://learn.microsoft.com/tr-tr/dotnet/welcome
 [mysql]: https://www.mysql.com/
+[oracle]: https://www.oracle.com/
 
 <br />
 <br />
