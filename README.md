@@ -5,7 +5,6 @@
 ✽ 📱 I’m developing mobile application with Flutter.
 <br/>
 ✽ 🏃🏻‍♀️ I'm chasing new education ve bootcamp for improve myself.
-
 <br/>
 
 ### 💻 Languages and Tools:
