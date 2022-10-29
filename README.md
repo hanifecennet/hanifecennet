@@ -1,5 +1,5 @@
 <h2>Hi there 🖐🏻</h2>
-<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputer-skeleton-pc-3o6fJ5z2bgCLBshZUA&psig=AOvVaw1E3zwVHR9Z__68LWy0yEfd&ust=1667138538689000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjbuZTNhfsCFQAAAAAdAAAAABBT)" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b761105f4fa26133e0ed25bba0ffb69ee30f779382220&amp" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
