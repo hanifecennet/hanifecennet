@@ -34,7 +34,7 @@
 [<img align="left" alt="HTML" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" height="38" width="38"/>][html]
 [<img align="left" alt="CSS" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" height="38" width="38"/>][css]
 [<img align="left" alt="Adobe XD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" height="38" width="38"/>][xd]
-[<img align="left" alt="Linux" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" height="38" width="38"/>][linux]
+[<img align="left" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38" width="38"/>][linux]
 
 <br />
 
