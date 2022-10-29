@@ -3,6 +3,7 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b7611e8c86ba8c1c025e33d8b009d18b5bffe35a2f2d3&amp;rid=giphy.gif&amp" width="500" height="320" />
 
 ✽ 📱 I’m developing mobile application with Flutter.
+<br/>
 ✽ 🏃🏻‍♀️ I'm chasing new education ve bootcamp for improve myself.
 ### 📥 Connect with me:
 
