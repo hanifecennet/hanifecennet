@@ -1,5 +1,5 @@
 <h2>Hi there 🖐🏻</h2>
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b761105f4fa26133e0ed25bba0ffb69ee30f779382220&amp" width="300" height="320" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b761105f4fa26133e0ed25bba0ffb69ee30f779382220&amp" width="250" height="240" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
