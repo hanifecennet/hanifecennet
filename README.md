@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b7611e8c86ba8c1c025e33d8b009d18b5bffe35a2f2d3&amp;rid=giphy.gif&amp" width="310" height="310"/>
 
-![](https://komarev.com/ghpvc/?username=your-github-hanifecennet&color=green)
+
 
 ✽ 📱 I’m developing mobile application with Flutter.
 <br/>
@@ -11,7 +11,9 @@
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hanifecennet&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanifecennet&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-  
+ 
+![](https://komarev.com/ghpvc/?username=your-github-hanifecennet&color=purple)
+
 ### 💻 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="38" width="38"/>][vsCode]
