@@ -31,8 +31,6 @@
 [<img align="left" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38" width="38"/>][java]
 [<img align="left" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38" width="38"/>][linux] -->
 
-<br/>
-
 [vsCode]: https://code.visualstudio.com/
 [unity]: https://unity.com/
 [cs]: https://learn.microsoft.com/en-us/dotnet/csharp/
@@ -52,10 +50,6 @@
 [oracle]: https://www.oracle.com/
 [java]: https://www.java.com/tr/
 [linux]: https://www.linux.org/
-
-<br/>
-<br/>
-<br/>
 
 ### 📥 Connect with me:
 
