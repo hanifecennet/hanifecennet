@@ -12,7 +12,7 @@
 
 ### 💻 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="38" width="38"/>][vsCode]
+<!--[<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="38" width="38"/>][vsCode]
 [<img align="left" alt="Unity" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/unity.svg" height="38" width="38"/>][unity]
 [<img align="left" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="38" width="38"/>][cs]
 [<img align="left" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="38" width="38"/>][c]
@@ -29,7 +29,7 @@
 [<img align="left" alt=".Net" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="38" width="38"/>][dotnet]
 [<img align="left" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="38" width="38"/>][oracle]
 [<img align="left" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38" width="38"/>][java]
-[<img align="left" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38" width="38"/>][linux]
+[<img align="left" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38" width="38"/>][linux] -->
 
 <br/>
 
