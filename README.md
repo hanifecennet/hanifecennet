@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Hanife Cennet </h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+<h2>Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Hanife Cennet </h2> 
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b7611e8c86ba8c1c025e33d8b009d18b5bffe35a2f2d3&amp;rid=giphy.gif&amp" width="220" height="220"/>
 
