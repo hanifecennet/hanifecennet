@@ -4,7 +4,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> I’m developing mobile application with Flutter.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m developing mobile application with Flutter.
 <br/>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm chasing new education ve bootcamp for improve myself.
 <br/>
