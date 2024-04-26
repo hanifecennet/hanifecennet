@@ -1,6 +1,6 @@
 <h3>Hi there, I'm Hanife Cennet <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20" /> </h3> 
 
-<img align="right" margin-top="10px" margin-bottom="10px" alt="GIF" src="https://media3.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b7611e8c86ba8c1c025e33d8b009d18b5bffe35a2f2d3&amp;rid=giphy.gif&amp" width="200" height="200"/>
+<img align="right" margin-top="10px" margin-bottom="10px" alt="GIF" src="[https://media3.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b7611e8c86ba8c1c025e33d8b009d18b5bffe35a2f2d3&amp;rid=giphy.gif&amp](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.artofit.org%2Fimage-gallery%2F511369732691930065%2Fbugcat-capoo-gif-bugcat-capoo-work-discover-share-gifs%2F&psig=AOvVaw2cLAQd48or5EfRV-FKo18q&ust=1714254412226000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCPjrur7t4IUDFQAAAAAdAAAAABDvAQ)" width="200" height="200"/>
 <br/>
 I’m developing mobile application with Flutter. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
