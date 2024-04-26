@@ -1,5 +1,9 @@
 <h3>Hi there, I'm Hanife Cennet <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20" /> </h3> 
+### 📥 Connect with me:
 
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <img align="right" margin-top="10px" margin-bottom="10px" alt="GIF" src="https://media3.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif?cid=790b7611e8c86ba8c1c025e33d8b009d18b5bffe35a2f2d3&amp;rid=giphy.gif&amp" width="200" height="200"/>
 <br/>
 I’m developing mobile application with Flutter. 
@@ -48,11 +52,7 @@ I'm chasing new education ve bootcamp for improve myself.
 [oracle]: https://www.oracle.com/
 [java]: https://www.java.com/tr/
 [linux]: https://www.linux.org/-->
-### 📥 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <!--[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />][discord]-->
 
 <br/>
