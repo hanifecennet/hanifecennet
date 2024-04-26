@@ -29,7 +29,7 @@ I'm chasing new education ve bootcamp for improve myself.
 [<img align="left" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="38" width="38"/>][oracle]
 [<img align="left" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38" width="38"/>][java]
 [<img align="left" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="38" width="38"/>][linux] -->
-
+<!--
 [vsCode]: https://code.visualstudio.com/
 [unity]: https://unity.com/
 [cs]: https://learn.microsoft.com/en-us/dotnet/csharp/
@@ -48,8 +48,7 @@ I'm chasing new education ve bootcamp for improve myself.
 [dotnet]: https://learn.microsoft.com/tr-tr/dotnet/welcome
 [oracle]: https://www.oracle.com/
 [java]: https://www.java.com/tr/
-[linux]: https://www.linux.org/
-
+[linux]: https://www.linux.org/-->
 ### 📥 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
